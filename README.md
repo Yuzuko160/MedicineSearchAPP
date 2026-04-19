@@ -4,6 +4,9 @@
 This application allows users to search for medication-related information through multiple channels and interact with an in-app intelligent assistant for medication Q&A.  
 The goal is to prevent medication misuse and ensure safe usage.
 
+## Demo
+[![Demo Video](https://img.shields.io/badge/Play-Demo%20Video-red)](https://drive.google.com/file/d/1bTPjzKaoqNVSLY6WXiv4oSb60fzO-kAi/view?usp=sharing)
+
 ## Features
 
 ### Login & Registration
