@@ -5,7 +5,7 @@ This application allows users to search for medication-related information throu
 The goal is to prevent medication misuse and ensure safe usage.
 
 ## Demo
-[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Demo-blue)](https://drive.google.com/file/d/1bTPjzKaoqNVSLY6WXiv4oSb60fzO-kAi/view)
+[![Demo Video](https://img.shields.io/badge/Play-Demo%20Video-red)](https://drive.google.com/file/d/1bTPjzKaoqNVSLY6WXiv4oSb60fzO-kAi/view?usp=sharing)
 
 <a href="https://drive.google.com/file/d/1bTPjzKaoqNVSLY6WXiv4oSb60fzO-kAi/view">
   <img src="https://github.com/user-attachments/assets/79ddf402-83dc-4e34-92d7-d37752076c37" width="600">
